@@ -210,10 +210,10 @@ Proyek ini dikembangkan oleh mahasiswa **Jurusan Cyber Security, BINUS Universit
 
 | Nama | NIM | Peran | Kontribusi |
 |---|---|---|---|
-| Shinji Prudent Zhang | [2802402104] | Project Manager & Backend Lead | Arsitektur sistem, routing engine, koordinasi tim |
-| Aryo Bismo Kuntjoro Jakti | [2802414161] | Frontend Developer | UI/UX, React components, Leaflet map integration |
-| [Dominick Jovan Hilman] | [2802392305] | Data & API Engineer | Integrasi API, database schema, seed data |
-| [Akraam Misbah Hidayatullah] | [2802420473] | Riset & Dokumentasi | Proposal PKM-KC, riset pasar, laporan kemajuan |
+| Shinji Prudent Zhang | 2802402104 | Project Manager & Backend Lead | Arsitektur sistem, routing engine, koordinasi tim |
+| Aryo Bismo Kuntjoro Jakti | 2802414161 | Frontend Developer | UI/UX, React components, Leaflet map integration |
+| Dominick Jovan Hilman | 2802392305 | Data & API Engineer | Integrasi API, database schema, seed data |
+| Akraam Misbah Hidayatullah | 2802420473 | Riset & Dokumentasi | Proposal PKM-KC, riset pasar, laporan kemajuan |
 
 **Dosen Pembimbing:** [Dwi Nurmelly Handayani, S.Kom., MTI], [D6320]
 
