@@ -1,6 +1,5 @@
-<div align="center">
 
-# 🚌 BinusGO!
+#  BinusGO!
 
 **Transit Cerdas Menuju Kampus BINUS**
 
